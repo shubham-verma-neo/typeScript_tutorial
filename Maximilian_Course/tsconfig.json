@@ -113,7 +113,8 @@
     "src/clasess.ts",
     "src/interfaces.ts",
     "src/advanced-types.ts"
-  ]
+  ],
+  "include": ["src/app.ts"]
 }
 // file.ts
 // *.devs.ts
